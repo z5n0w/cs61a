@@ -1,0 +1,5 @@
+﻿1. https://github.com/DeathKing/Learning-SICP 《计算机程序的构造和解释》公开课中文化项目
+
+2. http://groups.csail.mit.edu/mac/users/gjs/6.945/assignments.html MIT 2015春 6.945/6.905 课程作业
+
+3. https://github.com/DeathKing/yast-cn Scheme入门教程

@@ -1,0 +1,20 @@
+# ipython notebook
+.ipynb_checkpoints
+
+# Python
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# pycharm temp file
+.DS_Store
+.idea
+
+# visualstudio temp file
+.vs
+
+#ignore ok file
+.ok_history
